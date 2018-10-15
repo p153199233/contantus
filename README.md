@@ -1,4 +1,4 @@
-Narrow The Geometry
+A GunMan
 If you have any questions about using our App, please contact us according to the contact information below. 
 Email: shenyangTelect@gmail.com
 
