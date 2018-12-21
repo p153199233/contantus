@@ -1,7 +1,10 @@
-A GunMan
-If you have any questions about using our App, please contact us according to the contact information below. 
-Email: shenyangTelect@gmail.com
+为：荐云平台，提供技术支持！
 
-![](https://oscimg.oschina.net/oscnet/02cb89365ef5be02df47bb60c456eab0713.jpg)
+如果在使用APP的过程中有任何问题可以随时与我们进行联系！
 
-![](https://oscimg.oschina.net/oscnet/80da94adfaa27f6c5d849444683159935ee.jpg)
+联系邮箱:  153199233@qq.com
+
+联系人：荐云平台
+
+![](https://oscimg.oschina.net/oscnet/47eb49a85eb8ef11741c0a29bc401720757.jpg)
+
