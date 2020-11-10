@@ -4,7 +4,7 @@ Privacy Policy And Contact
 ====
 
 If you have any Suggestions or questions, please send us an email. Thank you very much
-
+---
 Email: privacypolicyFroLaurent@gmail.com
 ----
 ![](https://is2-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a1/90/d8/a190d825-df8e-74ee-d659-f0638216a8c4/f528c285-08e0-48e3-a2a7-3b2c00332438_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-11-04_at_22.56.07.png/1242x2688bb.png)
