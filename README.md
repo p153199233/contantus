@@ -1,7 +1,7 @@
-TangDynasty Guard
-====
-Privacy Policy And Contact
+#TangDynasty Guard
 
+Privacy Policy And Contact
+====
 
 If you have any Suggestions or questions, please send us an email. Thank you very much
 
