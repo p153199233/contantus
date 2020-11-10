@@ -7,21 +7,12 @@ Email: privacypolicyFroLaurent@gmail.com
 
 ![](https://is2-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a1/90/d8/a190d825-df8e-74ee-d659-f0638216a8c4/f528c285-08e0-48e3-a2a7-3b2c00332438_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-11-04_at_22.56.07.png/1242x2688bb.png)
 
-less you have an official authorization document issued by our APP, the specific staff of our APP will not directly ask for your personal information. In such case, you can contact our APP directly.
 
-Statutory disclosure
-We will do our best to protect users’ privacy, but we may disclose personal information when we have reason to believe that the disclosure of personal information is the only way to comply with existing judicial procedures, court orders or other legal procedures or to protect the rights, property or security of “our APP”, “our APP” users or third parties.
+The introduction
 
-Six, Cookie
+Welcome to use our APP!
 
-We may use cookies on the “our APP” website. Using cookies, we can automatically access and use our website’s data entry function, or customize a promotion or marketing campaign to associate online ordering information for purchases you make. In addition, we can track the usage of our website through cookies to determine which features are useful or popular and which do not help us effectively improve and update our services. Most web browsers warn you about using cookies, or refuse to accept them at all. You can accept or reject cookies by changing your browser Settings. However, if cookies are disabled, you cannot use the interactive features of the site.
-
-Seven, to protect your information security and measures
-
-We minimize the use of third-party services to reduce your privacy disclosure, and we try our best to ensure that the third-party service providers we use have trustworthy security systems to protect user data.
-When you use our APP, we encrypt and transmit all your access information to ensure its security and reliability. All communications on the official website of our APP are encrypted by HTTPS, and the user’s password is one-way encrypted. No one, including our APP staff, can know the user’s password. However, please understand that due to technical limitations and possible malicious means, it is impossible to guarantee 100% security of information in the Internet industry, even if every effort is made to strengthen security measures. You need to be aware that the systems and communications networks you use to access our services may be compromised by factors beyond our control.
-You should pay attention to the security of your personal information. For example, don’t share accounts or give away your personal passwords.
-Filtering and deleting harmful information
+We attach great importance to the privacy and security of users. When you use our services, we may collect and use your relevant information. We hope to help you better understand how our APP (” our APP “or” we “) collects, USES and stores such information through this privacy policy. The relevant technical terms in this privacy policy are as concise as possible and further explanations are provided for your understanding. By using or continuing to use our services, you consent to us collecting, using, storing and sharing your information in accordance with this privacy policy. For any questions, comments or Suggestions on this privacy policy or related matters, please feel free to contact us.
 
 “Our APP” prohibits users from using the product or service to post any harmful information, including:
 
