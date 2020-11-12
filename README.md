@@ -1,5 +1,3 @@
-TangDynasty Guard
-====
 Privacy Policy And Contact
 ====
 
